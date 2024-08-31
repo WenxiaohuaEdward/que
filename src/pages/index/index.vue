@@ -2,7 +2,7 @@
   <view class="content">
     <image class="logo" src="/static/logo.png"></image>
     <view class="text-area">
-      <text class="title">{{ title }}11jjjs7w1</text>
+      <text class="title">{{ title }}11j文晓问我jjs7w1</text>
     </view>
   </view>
 </template>
